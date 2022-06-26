@@ -33,6 +33,8 @@
 
 ---
 
+## 🎨 Layout 
+
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; flex-direction: column; justify-content: center; gap: 20px;">
@@ -67,7 +69,7 @@
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT]().
+Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
 Feito com ❤️ por Daniel Guimarães 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-guimaraes-vieira/)
 
