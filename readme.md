@@ -1,3 +1,10 @@
+<p align="center"> 
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8022F5&style=flat">
+  <img src="https://img.shields.io/static/v1?label=languages&message=3&color=A8A60C&style=flat">
+  <a href="https://www.linkedin.com/in/daniel-guimaraes-vieira/"><img src="https://img.shields.io/static/v1?label=feito%20por&message=Daniel&color=4B00A8&style=flat"></a>
+
+</p>
+
 <h1 align="center">
     <img alt="Banner do projeto" title="#ReveleSeuDestino" src="./assets/banner.png" />
 </h1>
@@ -17,12 +24,10 @@
 
 ## 💻 Sobre o projeto
 
-<p>É uma landing page bastante divertida e com um leve toque de mistério, que tem como objetivo revelar o destino do usuário.</p>
+É uma landing page bastante divertida e com um leve toque de mistério, que tem como objetivo revelar o destino do usuário.
 
-<p>
-  Projeto desenvolvido durante a **Maratona Explorer** oferecida pela [Rocketseat](https://rocketseat.com.br).
-  A maratona Explorer é uma experiência online com muito conteúdo prático, desafios e hacks onde pude aprender muitas técnicas novas e me especializar ainda mais.
-</p>
+Projeto desenvolvido durante a **Maratona Explorer** oferecida pela [Rocketseat](https://rocketseat.com.br).
+A maratona Explorer é uma experiência online com muito conteúdo prático, desafios e hacks onde pude aprender muitas técnicas novas e me especializar ainda mais.
 
 ---
 
@@ -33,20 +38,28 @@
 
 ---
 
-## 🎨 Layout 
+## 🎨 Layout
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; flex-direction: column; justify-content: center; gap: 20px;">
-  <img alt="Execução do projeto" title="#ReveleSeuDestino" src="./assets/banner.png" width="600px">
+  <img alt="Banner do projeto para desktop" title="#ReveleSeuDestino" src="./assets/banner.png" width="600px">
   <img alt="Execução do projeto" title="#ReveleSeuDestino" src="./assets/web.png" width="600px"> 
+</p>
+
+### Mobile
+
+<p align="center" style="display: flex; align-items: flex-start; gap: 20px;">
+  <img alt="Banner do projeto para mobile" title="#ReveleSeuDestino" src="./assets/banner-mobile.jpeg" width="300px">
+  <img alt="Execução do projeto para mobile" title="#ReveleSeuDestino" src="./assets/execução-mobile.jpeg" width="300px">
+
 </p>
 
 ---
 
 ## 🛠 Tecnologias
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 30px;">
+<p align="center" style="display: flex; align-items: flex-start; gap: 30px;">
   <img alt="Icone Css3" title="#Css3" src="./assets/css3.svg" width="100px">
   <img alt="Icone Html5" title="#Html5" src="./assets/html5.svg" width="100px">
   <img alt="Icone JavaScript" title="#JavaScript" src="./assets/javascript.svg" width="100px">
